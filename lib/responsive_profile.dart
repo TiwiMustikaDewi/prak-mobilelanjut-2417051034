@@ -76,7 +76,7 @@ class _ProfileHeader extends StatelessWidget {
             ),
             const SizedBox(height: 16),
             Text(
-              'Nama Mahasiswa',
+              'Tiwi Mustika Dewi',
               style: Theme.of(context).textTheme.headlineSmall,
               textAlign: TextAlign.center,
             ),
